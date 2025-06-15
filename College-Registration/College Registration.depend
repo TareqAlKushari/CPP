@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1656450799 source:d:\my_progict\code_blocks\college registration\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	"Std.h"
+
+1656451184 d:\my_progict\code_blocks\college registration\std.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+
+1656450846 source:d:\my_progict\code_blocks\college registration\std.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	"Std.h"
+

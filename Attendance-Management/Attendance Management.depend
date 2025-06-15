@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1656521274 source:d:\my_progict\code_blocks\ attendance management\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+

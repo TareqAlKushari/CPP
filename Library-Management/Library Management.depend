@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655933930 source:d:\my_progict\code_blocks\ library management\main.cpp
+	<iostream>
+	"main.h"
+	<string.h>
+	<stdio.h>
+	<time.h>
+	<fstream>
+
+1655933814 d:\my_progict\code_blocks\ library management\main.h
+

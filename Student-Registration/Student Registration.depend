@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1656452583 source:d:\my_progict\code_blocks\student registration\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Student.h"
+
+1656452464 d:\my_progict\code_blocks\student registration\student.h
+	<iostream>
+	<fstream>
+	<string>
+
+1656452468 source:d:\my_progict\code_blocks\student registration\student.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Student.h"
+

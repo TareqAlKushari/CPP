@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1656430015 source:d:\my_progict\code_blocks\doctors appointment\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"Doctors.h"
+
+1656429837 source:d:\my_progict\code_blocks\doctors appointment\doctors.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"Doctors.h"
+
+1656429758 d:\my_progict\code_blocks\doctors appointment\doctors.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+

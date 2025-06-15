@@ -1,0 +1,4 @@
+
+tareq | In-State | Health Plan : C | 222
+Total Tuition Paid for all In-State Students : 342
+Total Tuition Paid for all Out-of-State Students : 0
