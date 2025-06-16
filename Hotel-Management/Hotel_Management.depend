@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1656543057 source:d:\my_progict\code_blocks\hotel_management\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Customer.h"
+
+1656542930 d:\my_progict\code_blocks\hotel_management\customer.h
+
+1655753419 d:\my_progict\code_blocks\hotel_management\room.h
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Customer.h"
+
+1656542924 source:d:\my_progict\code_blocks\hotel_management\customer.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Customer.h"
+
