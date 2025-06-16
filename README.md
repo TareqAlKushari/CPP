@@ -48,7 +48,7 @@ The repository is organized into folders, each representing a standalone project
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/TareqAlKushari/CPP.git
-```
+   ````
 
 2. **Open the project**: Use [Code::Blocks](http://www.codeblocks.org/) or any IDE that supports C++ and `.cbp` files.
 
