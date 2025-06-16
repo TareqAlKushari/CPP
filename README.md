@@ -58,9 +58,8 @@ The repository is organized into folders, each representing a standalone project
 
 > You can add a banner by uploading a banner image to your repository (below 1 MB) and referencing it like so:
 
-```markdown
 ![Banner](banner.png)
-```
+
 
 ## 📄 License
 
