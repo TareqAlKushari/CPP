@@ -1,10 +1,10 @@
 # C++ Project Collection
 
-This repository is a curated collection of C++ projects and mini-systems by [TareqAlKushari](https://github.com/TareqAlKushari). It is designed as an educational resource, providing implementations for a variety of management systems, data handling utilities, and C++ programming concepts. Each project is self-contained in its own directory and can serve as a reference or starting point for similar applications.
+This repository contains a variety of C++ projects and sample applications, each organized in its own subdirectory. The projects cover a range of topics from banking systems to attendance management and car-related systems, making this repository a helpful resource for learning and practicing C++ programming concepts.
 
 ## Contents
 
-Below are some of the notable projects included in this repository:
+Each project is separated into its own folder.
 
 - **Account-Bank**: Simple banking system simulation.
 - **Attendance-Management**: Tool for tracking and managing attendance records.
