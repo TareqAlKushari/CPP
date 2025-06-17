@@ -1,20 +1,28 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" target="_blank">
+<!--   <a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" target="_blank">
     <img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" alt="CPP Repository Banner" width="100%" height="250px"/>
+  </a> -->
+</p>
+
+<h1 align="center">
+  <a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/" target="_blank" align="center">
+    C++ Programming Projects & Examples
   </a>
-</p>
+</h1>
 
-<h1 align="center">C++ Programming Projects & Examples</h1>
-
-<p align="center">
-  A curated collection of C++ programs and projects — from basics to advanced — for students, enthusiasts, and developers learning or revisiting C++.
-</p>
+<p align="center">A curated collection of C++ programs and projects — from basics to advanced — for students, enthusiasts, and developers learning or revisiting C++.</p>
 
 <p align="center">
-  <a href="https://github.com/TareqAlKushari/CPP/stargazers"><img src="https://img.shields.io/github/stars/TareqAlKushari/CPP?style=for-the-badge&color=yellow" alt="GitHub Stars"></a>
-  <a href="https://github.com/TareqAlKushari/CPP/network/members"><img src="https://img.shields.io/github/forks/TareqAlKushari/CPP?style=for-the-badge&color=blue" alt="GitHub Forks"></a>
-  <a href="https://github.com/TareqAlKushari/CPP/issues"><img src="https://img.shields.io/github/issues/TareqAlKushari/CPP?style=for-the-badge&color=orange" alt="GitHub Issues"></a>
+  <a href="https://github.com/TareqAlKushari/CPP/stargazers">
+    <img src="https://img.shields.io/github/stars/TareqAlKushari/CPP?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/TareqAlKushari/CPP/network/members">
+    <img src="https://img.shields.io/github/forks/TareqAlKushari/CPP?style=for-the-badge&color=blue" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/TareqAlKushari/CPP/issues">
+    <img src="https://img.shields.io/github/issues/TareqAlKushari/CPP?style=for-the-badge&color=orange" alt="GitHub Issues">
+  </a>
   <img src="https://img.shields.io/github/languages/top/TareqAlKushari/CPP?style=for-the-badge&color=informational" alt="Top Language">
 </p>
 
