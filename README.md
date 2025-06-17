@@ -14,26 +14,16 @@
 <p align="center">A curated collection of C++ programs and projects — from basics to advanced — for students, enthusiasts, and developers learning or revisiting C++.</p>
 
 <p align="center">
-    <a href="https://github.com/TareqAlKushari/CPP/LICENSE">
-        <img src="https://img.shields.io/github/license/TareqAlKushari/CPP" alt="license">
-    </a>
-    <a href="https://github.com/TareqAlKushari/CPP/releases/">
-        <img src="https://img.shields.io/github/release/TareqAlKushari/CPP" alt="GitHub release">
-    </a>
-    <a href="https://github.com/TareqAlKushari/CPP/stargazers">
-        <img src="https://img.shields.io/github/stars/TareqAlKushari/CPP" alt="GitHub Stars">
-    </a>
-    <a href="https://github.com/TareqAlKushari/CPP/network/members">
-        <img src="https://img.shields.io/github/forks/TareqAlKushari/CPP" alt="GitHub Forks">
-    </a>
-    <a href="https://github.com/TareqAlKushari/CPP/issues">
-        <img src="https://img.shields.io/github/issues/TareqAlKushari/CPP" alt="GitHub Issues">
-    </a>
+    <a href="https://github.com/TareqAlKushari/CPP/LICENSE"><img src="https://img.shields.io/github/license/TareqAlKushari/CPP" alt="license"></a>
+    <a href="https://github.com/TareqAlKushari/CPP/releases/"><img src="https://img.shields.io/github/release/TareqAlKushari/CPP" alt="GitHub release"></a>
+    <a href="https://github.com/TareqAlKushari/CPP/stargazers"><img src="https://img.shields.io/github/stars/TareqAlKushari/CPP" alt="GitHub Stars"></a>
+    <a href="https://github.com/TareqAlKushari/CPP/network/members"><img src="https://img.shields.io/github/forks/TareqAlKushari/CPP" alt="GitHub Forks"></a>
+    <a href="https://github.com/TareqAlKushari/CPP/issues"><img src="https://img.shields.io/github/issues/TareqAlKushari/CPP" alt="GitHub Issues"></a>
     <img src="https://img.shields.io/github/languages/top/TareqAlKushari/CPP" alt="Top Language">
-    <a href="https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09" target="_blank">
-        <img alt="X Follow" src="https://img.shields.io/twitter/follow/Al_Kushari">
-    </a>
+    <a href="https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09" target="_blank"><img alt="X Follow" src="https://img.shields.io/twitter/follow/Al_Kushari"></a>
 </p>
+
+<kbd>[![C++ Programming Projects & Examples Demo Screenshot](https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png)](https://raw.githubusercontent.com/TareqAlKushari/CPP/)</kbd>
 
 ---
 
