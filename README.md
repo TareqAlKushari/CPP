@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/github/release/TareqAlKushari/CPP" alt="GitHub release">
     </a>
     <a href="https://github.com/TareqAlKushari/CPP/stargazers">
-        <img src="https://img.shields.io/github/stars/TareqAlKushari/CPP?style=for-the-badge&color=yellow" alt="GitHub Stars">
+        <img src="https://img.shields.io/github/stars/TareqAlKushari/CPP" alt="GitHub Stars">
     </a>
     <a href="https://github.com/TareqAlKushari/CPP/network/members">
         <img src="https://img.shields.io/github/forks/TareqAlKushari/CPP?style=for-the-badge&color=blue" alt="GitHub Forks">
