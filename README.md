@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/main/docs/banner.png" alt="CPP Repository Banner" width="100%" />
+</p>
+
+
 # C++ Project Collection
 
 This repository contains a variety of C++ projects and sample applications, each organized in its own subdirectory. The projects cover a range of topics from banking systems to attendance management and car-related systems, making this repository a helpful resource for learning and practicing C++ programming concepts.
