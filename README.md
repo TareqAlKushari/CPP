@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" alt="CPP Repository Banner" width="100%" height="auto"/>
+  <a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" alt="CPP Repository Banner" width="100%" height="auto"/>
+  </a>
 </p>
 
 
