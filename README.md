@@ -23,7 +23,7 @@
     <a href="https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09" target="_blank"><img alt="X Follow" src="https://img.shields.io/twitter/follow/Al_Kushari"></a>
 </p>
 
-<kbd align="center">[![C++ Programming Projects & Examples Demo Screenshot](https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png)](https://raw.githubusercontent.com/TareqAlKushari/CPP/)</kbd>
+<kbd align="center" width="100%">[![C++ Programming Projects & Examples Demo Screenshot](https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png)](https://raw.githubusercontent.com/TareqAlKushari/CPP/)</kbd>
 
 ---
 
