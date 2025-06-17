@@ -1,8 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" target="_blank">
+<!--   <a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" target="_blank">
     <img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" alt="CPP Repository Banner" width="100%" height="250px"/>
-  </a>
+  </a> -->
 </p>
 
 <h1 align="center">
@@ -23,7 +23,7 @@
     <a href="https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09" target="_blank"><img alt="X Follow" src="https://img.shields.io/twitter/follow/Al_Kushari"></a>
 </p>
 
-<kbd align="center">[![C++ Programming Projects & Examples Demo Screenshot](<a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" target="_blank"><img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" alt="CPP Repository Banner" width="100%" height="250px"/></a>)](https://raw.githubusercontent.com/TareqAlKushari/CPP/)</kbd>
+<kbd align="center">[![C++ Programming Projects & Examples Demo Screenshot](<a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png"><img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" alt="CPP Repository Banner" width="100%"/></a>)](https://raw.githubusercontent.com/TareqAlKushari/CPP/)</kbd>
 
 ---
 
