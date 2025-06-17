@@ -24,12 +24,12 @@
         <img src="https://img.shields.io/github/stars/TareqAlKushari/CPP" alt="GitHub Stars">
     </a>
     <a href="https://github.com/TareqAlKushari/CPP/network/members">
-        <img src="https://img.shields.io/github/forks/TareqAlKushari/CPP?style=for-the-badge&color=blue" alt="GitHub Forks">
+        <img src="https://img.shields.io/github/forks/TareqAlKushari/CPP" alt="GitHub Forks">
     </a>
     <a href="https://github.com/TareqAlKushari/CPP/issues">
-        <img src="https://img.shields.io/github/issues/TareqAlKushari/CPP?style=for-the-badge&color=orange" alt="GitHub Issues">
+        <img src="https://img.shields.io/github/issues/TareqAlKushari/CPP" alt="GitHub Issues">
     </a>
-    <img src="https://img.shields.io/github/languages/top/TareqAlKushari/CPP?style=for-the-badge&color=informational" alt="Top Language">
+    <img src="https://img.shields.io/github/languages/top/TareqAlKushari/CPP" alt="Top Language">
     <a href="https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09" target="_blank">
         <img alt="X Follow" src="https://img.shields.io/twitter/follow/Al_Kushari">
     </a>
