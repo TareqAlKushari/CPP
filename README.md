@@ -64,7 +64,7 @@ CPP/
 └── README.md/
 ```
 
-## Structure
+## Structure 📁
 
 Each subdirectory typically contains:
 - `main.cpp` or equivalent source files
@@ -72,7 +72,7 @@ Each subdirectory typically contains:
 - Project files for IDEs (such as `.cbp` for Code::Blocks)
 - Sample data files and binaries (where applicable)
 
-## 💡 Topics Covered
+## Topics Covered 💡
 
 ![OOP](https://img.shields.io/badge/OOP-C%2B%2B-blue?style=flat-square)
 ![File Handling](https://img.shields.io/badge/File%20Handling-C%2B%2B-green?style=flat-square)
@@ -109,14 +109,14 @@ Each subdirectory typically contains:
 
 ## Features ✨
 
-* ✔️ Well-organized and modular examples
-* ✔️ Real-world use cases (e.g., Bank, ATM)
-* ✔️ Beginner-friendly with readable code
-* ✔️ Clean formatting & naming conventions
+* Well-organized and modular examples ✔️
+* Real-world use cases (e.g., Bank, ATM) ✔️
+* Beginner-friendly with readable code ✔️
+* Clean formatting & naming conventions ✔️
 
 ## Table of Contents 📘
 
-* [Algorithms](#)
+* [Account-Bank](Account-Bank)
 * [Data Structures](#)
 * [Templates & Metaprogramming](#)
 * [Unit Testing](#)
@@ -136,7 +136,5 @@ Please open an issue or submit a pull request.
 ## License 📜
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 > If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
