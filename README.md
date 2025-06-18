@@ -27,7 +27,48 @@
     <a href="https://raw.githubusercontent.com/TareqAlKushari/CPP/"><img src="https://raw.githubusercontent.com/TareqAlKushari/CPP/master/docs/banner.png" alt="CPP Repository Banner" width="100%" height="auto"/></a>
 </p>
 
----
+## Introduction 🚀
+
+This repository contains a comprehensive set of **C++ source code examples** for foundational and intermediate topics, including **data structures**, **OOP**, **file handling**, and **bank management systems**. Designed for students and developers aiming to strengthen their understanding of C++ through real, executable examples.
+
+It contains a variety of C++ projects and sample applications, each organized in its own subdirectory. The projects cover a range of topics from banking systems to attendance management and car-related systems, making this repository a helpful resource for learning and practicing C++ programming concepts.
+
+
+## 📂 Folder Structure
+
+```bash
+CPP/
+│
+├── Account-Bank/                         # Simple banking system simulation.
+├── Attendance-Management/                # Tool for tracking and managing attendance records.
+├── Car/                                  # Car-related management program.
+├── Cars-Systems-Using-Data-Structure/    # Demonstrates data structures in a car management context.
+├── Class-Result/                         # Class result processing and management.
+├── College-Registration/                 # College student registration system.
+├── Courses/                              # Course management utilities.
+├── Data-Structures-In-Structure/         # Illustrations of data structure usage.
+├── Doctors-Appointment/                  # Doctor appointment scheduling system.
+├── Employees-Advanced/                   # Employee management and HR tools.
+├── Employees/                            # Employee management.
+├── Files/                                # File handling utilities and demonstrations.
+├── Grade-Book/                           # Student grade management system.
+├── Hotel-Management/                     # Hotel and customer management application.
+├── Inheritance/                          # Demonstrations of object-oriented inheritance in C++.
+├── Library-Management/                   # Library and book management system.
+├── Parking-Charges/                      # Parking charge calculation tool.
+├── Staff-Management/                     # Staff record and management software.
+├── String-Stream/                        # Utilities for string and stream manipulation.
+├── Student-Registration/                 # Student registration processing.
+├── Student-Result/                       # Student result processing.
+├── Student/                              # Student processing.
+├── docs/                                 # Repository banner.
+├── LICENSE
+└── README.md/
+```
+
+
+
+
 
 # C++ Project Collection
 
