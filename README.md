@@ -33,6 +33,14 @@ This repository contains a comprehensive set of **C++ source code examples** for
 
 It contains a variety of C++ projects and sample applications, each organized in its own subdirectory. The projects cover a range of topics from banking systems to attendance management and car-related systems, making this repository a helpful resource for learning and practicing C++ programming concepts.
 
+## Topics Covered 💡
+
+![OOP](https://img.shields.io/badge/OOP-C%2B%2B-blue?style=flat-square)
+![File Handling](https://img.shields.io/badge/File%20Handling-C%2B%2B-green?style=flat-square)
+![Bank System](https://img.shields.io/badge/Bank%20System-OOP%20Project-red?style=flat-square)
+![Inheritance](https://img.shields.io/badge/Inheritance-C%2B%2B-orange?style=flat-square)
+![Beginner Friendly](https://img.shields.io/badge/Beginners-Welcome-lightgrey?style=flat-square)
+
 ## Repository Structure 📂
 
 ```bash
@@ -71,14 +79,6 @@ Each subdirectory typically contains:
 - Supporting headers (`.h`) and implementation files (`.cpp`)
 - Project files for IDEs (such as `.cbp` for Code::Blocks)
 - Sample data files and binaries (where applicable)
-
-## Topics Covered 💡
-
-![OOP](https://img.shields.io/badge/OOP-C%2B%2B-blue?style=flat-square)
-![File Handling](https://img.shields.io/badge/File%20Handling-C%2B%2B-green?style=flat-square)
-![Bank System](https://img.shields.io/badge/Bank%20System-OOP%20Project-red?style=flat-square)
-![Inheritance](https://img.shields.io/badge/Inheritance-C%2B%2B-orange?style=flat-square)
-![Beginner Friendly](https://img.shields.io/badge/Beginners-Welcome-lightgrey?style=flat-square)
 
 ## Getting Started 🛠️
 
