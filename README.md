@@ -144,7 +144,7 @@ Each subdirectory typically contains:
 
 ## Author 🙋‍♂️
 
-**Tareq Al Kushari**
+**Tareq Al-Kushari**
 [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Portfolio Website](#)
 
 ## Contributions 🤝
