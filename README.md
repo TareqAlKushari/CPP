@@ -142,15 +142,14 @@ Each subdirectory typically contains:
 * [License](LICENSE)
 * [README.md](README.md)
 
-## Author 🙋‍♂️
-
-**Tareq Al-Kushari**
-[GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Portfolio Website](#)
-
 ## Contributions 🤝
 
 Contributions, suggestions, or improvements are always welcome!
 Please open an issue or submit a pull request.
+
+## Author 🙋‍♂️
+
+**Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
 
 ## License 📜
 
