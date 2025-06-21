@@ -156,4 +156,6 @@ Please open an issue or submit a pull request.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+---
+
 > If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
